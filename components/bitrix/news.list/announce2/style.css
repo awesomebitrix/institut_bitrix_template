@@ -1,0 +1,14 @@
+.profile-card .profile-info a{
+font-size: 16px!important;
+color:#1d8570!important;
+}
+.profile-card .profile-info i{
+padding:0!important;}
+.profile-info > .btn{
+background: #fff;}
+.profile-info > h4.hvr-underline-from-center{
+padding-bottom: 10px;
+}
+.profile-info > .btn{
+padding: 0 8px 12px;
+}

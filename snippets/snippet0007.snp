@@ -1,0 +1,9 @@
+<ul class="nav nav-pills nav-stacked">
+	<li>
+		<a href="ссылка" class="news-gpk row">название ссылки</a>
+	</li>
+<li>
+		<a href="ссылка" class="news-gpk row">название ссылки</a>
+	</li>
+
+</ul>

@@ -1,0 +1,36 @@
+.video_ips {
+	
+	display: block;
+	color: #000;
+	
+	padding: 10px;
+}
+.video_ips li{
+	display: inline-block;
+	padding-bottom: 15px;
+	width: 100%;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+	width: 49%;
+}
+
+.video_ips li a{
+	color: #000;
+	font-size: 13px;
+}
+
+.video_ips-p{
+	margin-bottom: 5px;
+}
+@media only screen and (max-width : 768px) {
+	.video_ips li a{
+	font-size: 11px;
+	}
+}
+@media only screen and (max-width : 480px) {
+	.video_ips li{ 
+		width: 100%;
+	}
+	.video_ips li a{
+	font-size: 13px;
+	}
+}

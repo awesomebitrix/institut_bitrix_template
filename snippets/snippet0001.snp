@@ -1,0 +1,13 @@
+<?$APPLICATION->IncludeComponent(
+				"bitrix:rss.show", 
+				"rss_gpk", 
+				array(
+					"URL" => "http://gpk.gov.by/news/gpk/rss/",
+					"OUT_CHANNEL" => "N",
+					"NUM_NEWS" => "12",
+					"PROCESS" => "NONE",
+					"CACHE_TYPE" => "A",
+					"CACHE_TIME" => "3600"
+				),
+				false
+			);?>

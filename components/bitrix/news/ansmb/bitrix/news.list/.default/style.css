@@ -1,0 +1,16 @@
+.doska{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.thumbnail {
+    flex-basis: calc(50% - 15px);
+}
+
+@media only screen and (max-width : 768px) {
+     .thumbnail {
+       flex-basis: calc(90% - 15px * 2/3);
+    }
+}

@@ -1,0 +1,13 @@
+<div class="col-md-4 col-sm-6 col-xs-6 metro">
+     <a href="#" target="_self">	
+	<div class="metro-tile metro-tile-lg">
+		<div class="metro-tile-page active metro-tile-page-success">
+			<i class="fa fa-graduation-cap" aria-hidden="true"></i>	
+				<p>Название</p>
+		</div>
+	<div class="metro-tile-page metro-tile-page-danger">
+		<p>Описание плитки</p>
+	</div>
+	</div>
+	</a>
+</div>

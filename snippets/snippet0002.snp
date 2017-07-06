@@ -1,0 +1,11 @@
+<div class="white_field">
+				<?$APPLICATION->IncludeComponent(
+					"bitrix:main.include",
+					"white_field",
+					Array(
+						"AREA_FILE_SHOW" => "page",
+						"AREA_FILE_SUFFIX" => "white_field",
+						"EDIT_TEMPLATE" => ""
+					)
+				);?>
+</div>

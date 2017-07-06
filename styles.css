@@ -1,0 +1,36 @@
+.img-responsive {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.text-green {
+background-color: rgba(38, 194, 129, 0.37);
+padding: 15px;
+border-radius: 5px;
+display: block}
+
+.text-grey{
+background-color: rgba(158, 158, 158, 0.28);
+padding: 25px 40px;
+display: block;
+margin: 0 -35px 15px;}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.paralax {
+padding: 0;
+height: 30vh;
+background-size: 120%;
+position: relative;
+display: table;
+width: 100%;
+background-repeat: no-repeat;
+margin-bottom: 15px;
+}
+.paralax h1{
+background-color: rgba(29, 133, 112, 0.52);
+}
+.pagination{
+margin: 0!important}
